@@ -4,9 +4,9 @@ Version Python:
 
 Library:
 
-Pygame
-Random
-Time
+Pygame,
+Random,
+Time.
 
 Game:
 
